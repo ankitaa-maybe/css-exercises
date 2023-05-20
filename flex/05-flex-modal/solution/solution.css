@@ -90,6 +90,11 @@ button.cancel {
   margin-bottom: 8px;
 }
 
+.heading {
+  display: flex;
+  justify-content: space-between;
+}
+
 .text {
   margin-bottom: 16px;
 }
